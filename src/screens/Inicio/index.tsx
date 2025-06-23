@@ -53,7 +53,7 @@ export const Inicio = () => {
             </View>
 
             <View style={styles.taxaTexto}>
-                <View>
+                <View style={styles.taxaTituloSub}>
                     <Text style={styles.taxaTitulo}>Taxa na faixa</Text>
                     <Text style={styles.taxaSubtitulo}>A taxa é cortesia pra você</Text>
                 </View>

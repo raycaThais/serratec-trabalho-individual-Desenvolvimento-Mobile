@@ -82,6 +82,9 @@ export const styles = StyleSheet.create({
         color: "#6e6e6e",
         fontSize: 13
     },
+    taxaTituloSub:{
+        gap:1
+    },
     lojas: {
         flexDirection: "row",
         paddingHorizontal: 8

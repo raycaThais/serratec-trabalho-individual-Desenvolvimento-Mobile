@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         backgroundColor: "#fff",
         borderRadius: 30,
-        marginTop: 32,
+        marginTop: 31,
         marginHorizontal: 15,
         paddingHorizontal: 15,
     },
@@ -26,13 +26,13 @@ export const styles = StyleSheet.create({
     },
     categorias: {
         backgroundColor: "#ffffff",
-        marginTop: 21,
+        marginTop: 19,
         borderTopRightRadius: 25,
         borderTopLeftRadius: 25,
 
     },
     categoriasView: {
-        marginTop: 20,
+        marginTop: 21.5,
         flexDirection: "row",
         flexWrap: "wrap",
         gap: 15,
@@ -40,7 +40,7 @@ export const styles = StyleSheet.create({
     },
 
     titulo: {
-        marginTop: 29,
+        marginTop: 28,
         fontWeight: 600,
         fontSize: 17,
         marginLeft: 20
