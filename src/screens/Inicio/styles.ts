@@ -69,7 +69,10 @@ export const styles = StyleSheet.create({
         flexDirection: "row",
         justifyContent: "space-between",
         alignItems: "center",
-        padding: 15
+        paddingTop: 10,
+        paddingLeft:15,
+        paddingBottom:15,
+        paddingRight:15
     },
     taxaTitulo: {
         fontWeight: "600",
@@ -90,11 +93,11 @@ export const styles = StyleSheet.create({
     },
     promocoes: {
         padding: 15,
-        marginTop: 15
+        marginTop: 18
     },
     promocao: {
         borderRadius: 15,
-        width: 295,
+        width: 300,
         height: 150,
         resizeMode: "contain",
         marginRight: 11,
