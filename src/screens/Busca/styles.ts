@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         backgroundColor: "#fff",
         borderRadius: 30,
-        marginTop: 40,
+        marginTop: 35,
         marginHorizontal: 15,
         paddingHorizontal: 15,
     },
@@ -26,7 +26,7 @@ export const styles = StyleSheet.create({
     },
     categorias: {
         backgroundColor: "#ffffff",
-        marginTop: 20,
+        marginTop: 21,
         borderTopRightRadius: 25,
         borderTopLeftRadius: 25,
 
@@ -40,7 +40,7 @@ export const styles = StyleSheet.create({
     },
 
     titulo: {
-        marginTop: 25,
+        marginTop: 29,
         fontWeight: 600,
         fontSize: 17,
         marginLeft: 20
