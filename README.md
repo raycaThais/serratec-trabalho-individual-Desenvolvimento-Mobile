@@ -1,6 +1,6 @@
 # 📱 Trabalho Individual - Desenvolvimento Mobile
 
-Este projeto faz parte do trabalho individual da disciplina de Desenvolvimento Mobile do programa Serratec.  
+Este projeto faz parte do trabalho individual da disciplina de Desenvolvimento de Aplicativo Mobile do Serratec.  
 O objetivo foi **reproduzir visualmente a interface de um aplicativo real**, praticando os conhecimentos adquiridos com **React Native**.
 
 O aplicativo escolhido para clonagem foi o **iFood**, focando em reproduzir o layout da sua **tela inicial** e a **tela de busca**.
@@ -17,3 +17,7 @@ O aplicativo escolhido para clonagem foi o **iFood**, focando em reproduzir o la
 | Original | Clonada |
 |--------------|-------------|
 | ![Imagem original](./assets/imagensGitHub/OriginalTela2.jpeg) | ![Imagem clonada](./assets/imagensGitHub/CloneTela2.jpeg) |
+
+---
+
+### 💌 Autora: Rayca Thais 
