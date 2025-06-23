@@ -14,6 +14,7 @@ export const styles = StyleSheet.create({
     },
     item: {
         alignItems: "center",
+        justifyContent:"center",
         gap: 2
 
     },

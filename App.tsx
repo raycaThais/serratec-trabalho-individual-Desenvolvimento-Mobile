@@ -5,8 +5,8 @@ import { Busca } from "./src/screens/Busca";
 
 export default function App() {
   return (
-  // <Inicio />
-    <Busca/>
+   <Inicio />
+  //  <Busca/>
 
   )
 }
